@@ -52,4 +52,5 @@ Make sure you have [Docker](https://www.docker.com/get-started) installed on you
 
    ```bash
    git clone [https://github.com/Nes-Afriat-New/Imdb-fun.git]
-   2. Setup the project of https://github.com/hmerritt/php-imdb-api using their readme,** and add to the php-imdb-api dir the api.php and the Docker File in the main Dir**
+```
+2. Setup the project of https://github.com/hmerritt/php-imdb-api using their readme,** and add to the php-imdb-api dir the api.php and the Docker File in the main Dir**
