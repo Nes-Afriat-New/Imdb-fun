@@ -53,3 +53,5 @@ Make sure you have [Docker](https://www.docker.com/get-started) installed on you
 2.  Setup the project of https://github.com/hmerritt/php-imdb-api using their readme.
 3.  Copy the dir of php-imdb-api into the project instead of the existing one.
 4.  Add to the php-imdb-api dir the **api.php** and the **Dockerfile** from the main Dir
+5.  Install the Java:  mvn clean package "-Dmaven.test.skip" 
+6.  From the main dir: docker-compose up --build
